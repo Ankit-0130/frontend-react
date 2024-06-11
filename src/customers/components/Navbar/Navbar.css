@@ -1,0 +1,12 @@
+li{
+    list-style: none;
+}
+
+.logo{
+    font-family: "Jersey 15", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    
+/* font-family: 'Playball', cursive; */
+/* font-family: 'Poppins', sans-serif; */
+}
